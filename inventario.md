@@ -8,4 +8,7 @@ COMPONENTI
 
 PERIFERICHE 
 
+[mouse](mouse.md)
+[tastiere](tastiere.md)
+
 Elettronica Padovana
