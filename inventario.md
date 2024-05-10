@@ -1,8 +1,9 @@
 [matricola_1]
 [matricola_2]
-<<<<<<< HEAD
+
+COMPONENTI
+
 [processori](processori.md)
-=======
 [schede_madri](schede_madri.md)
->>>>>>> feature/schede_madri
+
 Elettronica Padovana
